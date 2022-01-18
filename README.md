@@ -6,15 +6,12 @@ Desenvolvo principalmente para Ethereum, usando Solidity e web3.js.
 
 Sempre disposto a aprender mais, compartilhar conhecimento e manter meu Github em ordem :)
 
+---------------------------------------------------------------------------------------------------
 
+Hello, my name is Marcelo Creimer, and I´m an IT professional, focused on blockchain since the year 2017.
 
-- 👋 Hi, I’m @mcreimer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I´ve already worked with Ethereum, Hyperledger, Corda and IOTA.
 
-<!---
-mcreimer/mcreimer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I code mostly for Ethereum, using Solidity and web3.js.
+
+I´m always willing to learn more, to share knowledge and to keep my Github neat and tidy :)
